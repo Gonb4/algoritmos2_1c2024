@@ -1,7 +1,11 @@
 # Asignatura: Algoritmos y Estructuras de Datos (CB100)
-### Cátedra: Buchwald - Genender
+
+### Universidad de Buenos Aires - Facultad de Ingeniería
+
+#### ***Cátedra: Buchwald - Genender***
 
 Repositorio de trabajos prácticos
 
 ## Alumno
+
 ### Gonzalo Bustos
